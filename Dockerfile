@@ -8,6 +8,7 @@ ARG uid=1000
 
 RUN apk --update-cache add \
     bash \
+    git \
     npm \
     nodejs; \
     set -x && \

@@ -17,7 +17,7 @@ module.exports = {
     'jsx-a11y',
     'react',
     'react-hooks',
-    'react-refresh'
+    'react-refresh',
     '@typescript-eslint',
     'simple-import-sort',
   ],
